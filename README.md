@@ -5,5 +5,5 @@ unodot is a tiny set of utilities, in a single file per system, under 1000 LoC, 
 unodot doesn't care what package manager you use, how you store your dotfiles and secrets, etc.
 unodot doesn't care what structure you use to order and separate the dotfiles. You can do it per package, per project, per machine.
 
-It's just a lazer thin set of utilities that can be learnt in an afternoon, but are very important.
-It is self documenting, run either `unodot.zsh tutorial` or `unodot.ps tutorial` depending on your system.
+It's just a lazer thin set of utilities that can be learnt in an afternoon. With simplicity comes responsibility, so learning these utilities is important.
+unodot is self-documenting. Either read the source and documentation yourself or run the appropriate unodot file and it will guide you through learning it.
